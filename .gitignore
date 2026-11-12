@@ -1,0 +1,15 @@
+/token
+/documents/
+/modelsim.ini
+/work/
+/sim/work/
+/sim/*.mpf
+/sim/*.ucdb
+/sim/*.cr.mti
+/sim/coverage_report.txt
+/transcript
+/tr_db.log
+/vsim.wlf
+/vsim_stacktrace.vstf
+/tcl_stacktrace.txt
+/wlft*
